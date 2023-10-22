@@ -1,2 +1,2 @@
 # IBM-Cognos-Project
-A project using the data visualization tools of IBM Cognos. It deals with the lack of thorough examination of social media.
+A project using the data visualization tools of IBM Cognos. It deals with the lack of thorough examination of social media.This examination ought to cover its historical development, user demographics, societal influence, political roles, and commercial ramifications. The absence of such a study now limits our capacity to fully appreciate and respond to the complex and constantly evolving world of social media. In a society driven by technology, thorough comprehension is essential for strategic planning, policy development, and informed decision-making.
